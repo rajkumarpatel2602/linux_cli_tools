@@ -17,6 +17,7 @@
 
 ## rsync
 - for backup/copy/sync server files on bakup server
+- only delta 
 - port 22
 - users ssh protocol, so no client-server file required
 - cmd:: rsync commnad_options source destination
